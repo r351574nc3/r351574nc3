@@ -18,3 +18,4 @@
 - 📫 How to reach me: You just did.
 - 😄 Pronouns: are limiting because not all languages acknowledge pronouns
 - ⚡ Fun fact: constraints contribute to creativity
+- ⚡ Fun fact: 중광 means "brings balance to the light"
