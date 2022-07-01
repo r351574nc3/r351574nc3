@@ -2,6 +2,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=r351574nc3)
 
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=r351574nc3)
+
 - 🔭 I’m currently working on
     - Terraform
     - Cloud
